@@ -1,5 +1,8 @@
 _repo: Mademoiselle-of-Monte-Carlo_4694
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Le Queux, William
@@ -16,6 +19,8 @@ description: The Master of Mystery waves his magic wand again. In this book the 
   with convincing realism. Besides the elusive ""Mademoiselle,"" we come in tantalizing
   conact with the ""Sparrow,"" the incredible super criminal whose emissaries and
   operatives baffle the greatest detectives of Europe.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4694#Mademoiselle-of-Monte-Carlo
 gutenberg_issued: '2006-04-13'
 gutenberg_type: Text
 identifiers:
